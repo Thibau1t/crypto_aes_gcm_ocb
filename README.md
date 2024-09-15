@@ -44,10 +44,3 @@ Or
 ```bash
 python3 aes-gcm.py
 ```
-
-## Authors
-- Yvan Langlois (ER1696)
-- Thibault Villepreux (ER1697)
-
-## Date
-April 2024
